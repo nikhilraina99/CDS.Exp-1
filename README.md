@@ -81,7 +81,23 @@ int main()
     return 0;
 }
 ```
-
+### 2.
+```
+//Nikhil
+//23070123093
+//entc b1
+//experiment 1B
+#include<iostream>
+using namespace std;
+int main()
+{
+    string a;
+    cout << "Enter your name ";
+    getline(cin,a);
+    cout<<"Hello  " <<a;
+    return 0;
+}
+```
 ## Explanation - 
 Hello World: The program includes the necessary header files and uses the standard output stream to print "Hello World" to the console.
 
