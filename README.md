@@ -79,10 +79,10 @@ Hello World: The program includes the necessary header files and uses the standa
 Sum: These programs take input from the user, perform arithmetic calculations to find the sum of a number.
 
 ## Output -
-1.
-)
+1.![Screenshot 2024-08-12 001052](https://github.com/user-attachments/assets/d77e246f-fab7-460f-bb25-0c65192fd1f1)
+
 2.
-![Screenshot 2024-07-30 221545](https://github.com/user-attachments/assets/eb5a5df2-c651-4538-be93-4cd1134efadf)
+
 
 ## Conclusion -
 These basic programs provide a solid foundation for understanding C++ syntax and basic operations by the setup of vs code and Mingw.
