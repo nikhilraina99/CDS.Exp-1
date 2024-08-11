@@ -81,7 +81,8 @@ Sum: These programs take input from the user, perform arithmetic calculations to
 ## Output -
 1.![Screenshot 2024-08-12 001052](https://github.com/user-attachments/assets/d77e246f-fab7-460f-bb25-0c65192fd1f1)
 
-2.
+2.![Screenshot 2024-08-12 001328](https://github.com/user-attachments/assets/f43b9dca-46b6-4f4f-801f-46a6ddde6a8e)
+
 
 
 ## Conclusion -
