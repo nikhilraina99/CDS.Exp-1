@@ -54,21 +54,30 @@ int main()
 
 ### 2.
 ```
-//Nikhil Raina
+//Nikhil
 //23070123093
 //entc b1
-//experiment 1
-#include<iostream>
+//experiment 1B
+#include <iostream>
 using namespace std;
-int main()
+int main() 
 {
-    int num1,num2,num3,sum=0;
-    cout<<"enter first number-";
-    cin>>num1;
-    cout<<"enter second number";
-    cin>>num2;
-    sum=num1+num2;
-    cout<<"sum of given numbers="<<sum;
+
+    int a,b,product, sum,answer;
+    float quotient;
+    cout<<"Enter the value of a:\n";
+    cin>>a;
+    cout<<"Enter the value of b:\n";
+    cin>>b;
+    quotient=a/b;
+    cout<<"The solution of a/b:"<<quotient<<"\n";
+    product=a*b;
+    cout<<"The solution of a*b:"<<product<<"\n";
+    sum=a+b;
+    cout<<"The solution of a+b:"<<sum<<"\n";
+    answer=a-b;
+    cout<<"The solution of a-b:"<<answer<<"\n";
+
     return 0;
 }
 ```
@@ -81,7 +90,7 @@ Sum: These programs take input from the user, perform arithmetic calculations to
 ## Output -
 1.![Screenshot 2024-08-12 001052](https://github.com/user-attachments/assets/d77e246f-fab7-460f-bb25-0c65192fd1f1)
 
-2.![Screenshot 2024-08-12 001328](https://github.com/user-attachments/assets/f43b9dca-46b6-4f4f-801f-46a6ddde6a8e)
+2.
 
 
 
