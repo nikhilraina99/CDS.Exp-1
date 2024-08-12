@@ -1,7 +1,7 @@
 # CDS.Exp-1
 # Experiment-1
 ## Aim - 
-Downloading and installing of vs code,(Hello world and calculator program)
+Downloading and installing of vs code,Hello world and calculator program.
 
 ## Theory - 
 we study about downloading and installing of vs code and the start doing programs in it.
