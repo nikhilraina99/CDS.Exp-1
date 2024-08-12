@@ -104,12 +104,11 @@ Hello World: The program includes the necessary header files and uses the standa
 Sum: These programs take input from the user, perform arithmetic calculations to find the sum of a number.
 
 ## Output -
-1.![Screenshot 2024-08-12 001052](https://github.com/user-attachments/assets/d77e246f-fab7-460f-bb25-0c65192fd1f1)
+1.
 
-2.![Screenshot 2024-08-12 003524](https://github.com/user-attachments/assets/65afbab7-064d-4d04-b2d2-f7c775328401)
+2.
 
-3.![Screenshot 2024-08-12 004145](https://github.com/user-attachments/assets/2e5c1196-abb2-4536-a27f-c7bb808eb7d8)
-
+3.
 
 
 
