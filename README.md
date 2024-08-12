@@ -106,9 +106,9 @@ Sum: These programs take input from the user, perform arithmetic calculations to
 ## Output -
 1.![Screenshot 2024-08-12 140058](https://github.com/user-attachments/assets/1c94a3fd-78ee-4513-9424-db8f2d5fadef)
 
-2.
+2.![Screenshot 2024-08-12 140157](https://github.com/user-attachments/assets/485df6bf-939b-406e-ac02-dbd788b6f63a)
 
-3.
+3.![Screenshot 2024-08-12 140234](https://github.com/user-attachments/assets/70bf6937-2a4d-434a-a6be-a5f18f7a86b0)
 
 
 
